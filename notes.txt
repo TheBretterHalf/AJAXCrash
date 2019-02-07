@@ -1,0 +1,16 @@
+Version1.0
+    used for web development
+    set of web technologies to send and recieve data asynchronously
+    does not interfere with the current web page
+    exists between server and client, do not need to refresh/reload the page
+
+    XmlHttpRequest (XHR) Object
+        API in the form of an object
+        provided by the browser's JS enviroment
+        Methods transfer data between client/server
+        can be used with other protocols than HTTP
+        can work with data other than XML (jSON, plain text)
+    
+
+
+https://www.youtube.com/watch?v=82hnvUYY6QA
